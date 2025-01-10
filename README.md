@@ -1,4 +1,4 @@
-The MOVIES-GPT App is an AI-driven platform that enhances the Netflix experience. It leverages OpenAI's GPT-3.5 model to provide personalized content recommendations .This project is for Netflix enthusiasts seeking a more engaging and customized streaming experience. It empowers users to explore content effortlessly, engage in natural language interactions, and gain a deeper understanding of their favorite shows and movies. Whether you're a seasoned Netflix user or just starting your streaming journey, this app is designed to make your entertainment experience more enjoyable and enriching.
+The **MOVIES-GPT App** is an AI-driven platform that enhances the Netflix experience. It leverages OpenAI's GPT-3.5 model to provide personalized content recommendations .This project is for Netflix enthusiasts seeking a more engaging and customized streaming experience. It empowers users to explore content effortlessly, engage in natural language interactions, and gain a deeper understanding of their favorite shows and movies. Whether you're a seasoned Netflix user or just starting your streaming journey, this app is designed to make your entertainment experience more enjoyable and enriching.
 
 ![image](https://github.com/user-attachments/assets/4f92c3e0-764f-45a7-932b-72fcf5017c10)
 
@@ -11,7 +11,7 @@ The MOVIES-GPT App is an AI-driven platform that enhances the Netflix experience
 
 
 
-Technologies Used
+**Technologies Used**
 NetflixGPT is built using a combination of modern web technologies and services:
 
 React: NetflixGPT is primarily built using React, a popular JavaScript library for building user interfaces.
@@ -24,7 +24,7 @@ Firebase: Firebase is used for user authentication, ensuring secure access to pe
 
 OpenAI GPT-3: The heart of NetflixGPT is powered by OpenAI's GPT-3, which enables natural language understanding and conversation generation.
 
-Features
+**Features**
 Personalized Recommendations: Receive movie and TV show recommendations tailored to your interests and preferences.
 
 Natural Language Conversations: Engage in meaningful conversations with the AI to discover new content or get recommendations.
