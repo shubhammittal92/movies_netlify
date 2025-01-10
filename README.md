@@ -8,6 +8,10 @@ NetflixGPT is a web application that leverages the power of OpenAI's GPT-3 to en
 ![image](https://github.com/user-attachments/assets/01c5c090-e0e3-4436-a641-f1fa546da557)
 
 
+![Uploading image.png…]()
+
+
+
 
 Technologies Used
 NetflixGPT is built using a combination of modern web technologies and services:
